@@ -1,0 +1,6 @@
+
+Algorithm       Hash                                                                   Pat
+                                                                                       h
+---------       ----                                                                   ---
+SHA256          17A8FDB3DECE9020B500F7DE85A7854EA1DE48CB83257B99B404C222EB8ED736       C:…
+
